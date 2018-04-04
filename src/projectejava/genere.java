@@ -11,7 +11,7 @@ package projectejava;
  */
 public class genere {
     
-    public enum Genere{HOME};
+    public enum Genere{HOME,DONA,NSNC};
         
     
 //        public static void genereEnum(String Home, String Dona){
